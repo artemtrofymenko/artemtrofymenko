@@ -2,7 +2,7 @@
 
 AI-native operator-builder with a 20-year business operations background.
 
-I build practical tools for messy business workflows: CRM data cleanup, CSV import readiness, lightweight automation, and AI-assisted operations.
+I build practical tools for messy business workflows: CRM data cleanup, CSV import readiness, lightweight automation, self-hosted AI agent workflows, and AI-assisted operations.
 
 ## Current focus
 
@@ -15,32 +15,35 @@ I build practical tools for messy business workflows: CRM data cleanup, CSV impo
 
 ## Built products and systems
 
-### ReadyCSV
+### [ReadyCSV](https://readycsv.netlify.app/)
 
 Browser-only CSV preflight and repair workspace for HubSpot Contacts imports.
-
-Live: https://readycsv.netlify.app/
 
 What it does:
 
 - Inspect, clean, map, repair, and export CSV files before CRM import
-- Runs locally in the browser
+- Run locally in the browser
+- Detect common CSV import issues before upload to a CRM
+- Support safer CSV exports for spreadsheet workflows
+- Keep CSV processing client-side
+
+Privacy and product boundaries:
+
 - No backend
-- No uploads
-- No accounts
+- No server uploads
+- No user accounts
 - No AI calls
 - No analytics
 - No CSV data custody
 
-Relevant areas: RevOps, HubSpot operations, data quality, import workflows, privacy-first tooling.
+Relevant areas:
 
-### Telegram AI Automation Bot Kit
-
-Lightweight automation concept for Telegram-based AI workflows.
-
-Live: https://telegram-ai-automation-bot-kit.netlify.app/
-
-Relevant areas: AI-assisted operations, workflow automation, small business tooling, task routing.
+- RevOps
+- HubSpot operations
+- CRM data quality
+- CSV import workflows
+- Privacy-first business tooling
+- Browser-only SaaS utilities
 
 ### Self-hosted AI Agent Lab
 
@@ -48,22 +51,60 @@ Private Linux-based AI agent environment for controlled automation, research, an
 
 What it covers:
 
-- Server-side agent harness setup and operation
+- Server-side AI agent harness setup and operation
+- Hermes-style agent orchestration workflows
+- OpenCLI-style browser and research automation experiments
 - Telegram-based command interface
 - Local voice-to-text workflow experiments
 - Calendar and reminder automation
 - Guarded terminal actions with approval boundaries
 - Read-only helper commands for safe recurring checks
 - Contained browser automation experiments
-- Snapshot/rollback discipline for infrastructure changes
+- Snapshot and rollback discipline for infrastructure changes
 
-Relevant areas: AI operations, agent orchestration, automation safety, Linux/VPS operations, secure remote tooling.
+Relevant areas:
+
+- AI operations
+- Agent orchestration
+- Automation safety
+- Linux/VPS operations
+- Secure remote tooling
+- Human-in-the-loop agent workflows
+
+### [Telegram AI Automation Bot Kit](https://telegram-ai-automation-bot-kit.netlify.app/)
+
+Lightweight automation concept for Telegram-based AI workflows.
+
+What it demonstrates:
+
+- Telegram-first AI workflow packaging
+- Small business automation concepts
+- Task intake and routing ideas
+- Lightweight operator-facing automation UX
+- Practical AI-assisted workflow design
+
+Relevant areas:
+
+- AI-assisted operations
+- Workflow automation
+- Small business tooling
+- Task routing
+- Telegram-based interfaces
 
 ## Background
 
 20 years in founder-led business operations, including manufacturing, commercial operations, negotiations, and cross-border contract workflows with EU counterparties.
 
-I am not a traditional junior developer. I combine business execution, operational judgement, and AI-assisted product development to ship useful tools quickly.
+My background is not a traditional junior developer path. I combine business execution, operational judgement, and AI-assisted product development to ship useful tools quickly.
+
+## How I work
+
+- Start from a real operational problem
+- Define constraints before building
+- Prefer simple, privacy-conscious product architecture
+- Use AI-assisted development and review workflows
+- Validate with practical smoke tests and user workflows
+- Keep automation bounded, inspectable, and recoverable
 
 ## Best-fit roles
 
@@ -73,3 +114,9 @@ I am not a traditional junior developer. I combine business execution, operation
 - Technical Customer Success
 - Solutions Consultant
 - AI Operations / Automation Builder
+
+## Notes
+
+Source repositories for current products and private infrastructure experiments are not public.
+
+Public demos and case studies are available through the links above.
