@@ -1,39 +1,43 @@
 # Artem Trofymenko
 
-**AI automation builder with a 20-year business operations background.**
+**Operator-builder.** 20 years running B2B businesses — now shipping AI-assisted tools that fix real operational problems.
 
-I build practical AI-powered automations, bots, and small tools that solve real operational problems — fast, async, and without over-engineering. I pair AI-assisted development (Claude, ChatGPT / Codex) with two decades of running real B2B businesses, so I start from the actual problem, not the tech.
+Two decades as a founder and director across manufacturing, production, and cross-border commercial operations. I build small, privacy-first tools and automations starting from the operational bottleneck, not the tech stack. AI-assisted development (Claude, ChatGPT / Codex) takes me from problem to working software fast.
 
-## What I build
-- AI automations and workflows — Make, n8n, Zapier, with Claude/ChatGPT as the decision layer
-- Telegram bots and AI automation agents (routing, notifications, intake)
-- Lead capture → AI qualification → CRM hand-off → follow-up
-- Claude / ChatGPT API integrations
-- Simple, privacy-first browser tools and data-cleanup utilities
+Trilingual — Ukrainian · Russian · English.
 
-## Selected work
+## Live tools
 
-**[ReadyCSV](https://readycsv.netlify.app/)** — privacy-first, browser-only CSV preflight and repair tool for cleaning data before CRM imports. Runs entirely client-side: no backend, no uploads, no accounts, no data custody.
+**[ReadyCSV](https://readycsv.netlify.app)** — privacy-first CSV preflight & repair for HubSpot imports
+Inspect, clean, map headers, and export CSVs before CRM import. Runs entirely in the browser: no backend, no uploads, no accounts, no data custody. · [overview](https://readycsv.netlify.app/landing)
 
-**LeakRelay** — AI missed-call lead-response system. A missed call triggers an instant SMS that qualifies the lead (issue, urgency, details) and sends the owner a dispatch-ready summary. Built with Twilio + Claude.
+**[Revenue Leak Roast](https://revenueleakroast.netlify.app)** — static offer-teardown diagnostic
+Paste an offer or landing page; get a deterministic leak score with concrete fixes before spending on ads. Static, no backend, no analytics. · [source](https://github.com/artemtrofymenko/RevenueLeakRoast)
 
-**[Telegram AI Automation Bot Kit](https://telegram-ai-automation-bot-kit.netlify.app/)** — lightweight starter for Telegram-based AI workflows: task intake, routing, and operator-facing automation UX.
+**[Telegram AI Automation Kit](https://telegram-ai-automation-bot-kit.netlify.app)** — starter for Telegram-based AI workflows
+Task intake, routing, and operator-facing automation UX with safe demo defaults. · [source](https://github.com/artemtrofymenko/Telegram_AI_Automation_Kit_Public)
 
-**Self-hosted AI Agent Lab** (private) — a personal environment for human-in-the-loop AI agents: Telegram command interface, approval-gated actions, bounded and recoverable automation. Built to keep agents inspectable and safe, not autonomous.
+## Private work
+
+**LeakRelay** — missed-call lead-response (Twilio + Claude). A missed call triggers an instant qualifying SMS and an owner-ready lead summary.
+
+**Self-hosted AI Agent Lab** — human-in-the-loop agents with approval-gated actions and recoverable, inspectable automation.
+
+**AI Debates** — local PowerShell console that runs structured Claude-vs-Codex debates for hard, hard-to-reverse decisions: independent first round, opponent-aware rebuttal, final reports, model/effort picker, and strict privacy hygiene (no sessions, strategy, or contacts committed).
 
 ## How I work
-- Start from a real operational problem; define constraints before building
-- Prefer simple, privacy-conscious architecture
-- Use AI-assisted development and review, validated with practical smoke tests
-- Keep automation bounded, inspectable, and recoverable
 
-## Background
-20 years in founder-led B2B operations — manufacturing, commercial operations, negotiations, and cross-border EU contract workflows. Not a traditional developer path: I combine business judgment with AI-assisted product development to ship useful tools quickly.
+- Start from the operational decision, not the tool
+- Privacy-first by default — no backend, auth, or AI runtime until there's a real reason for one
+- AI-assisted development with explicit smoke tests
+- Bounded, inspectable, recoverable automation — ship small, then scale
 
-## Best-fit work
-- AI automation & workflow building (Make / n8n / Zapier + LLMs)
-- Chatbot & Telegram bot development
-- AI-assisted internal tools and lead-intake flows
-- API integrations and data-cleanup utilities
+## Open to
 
-*Public demos linked above. Source for current products and private experiments is not public.*
+AI workflow & automation builds · solutions / implementation · technical customer success. EMEA / EU / UK remote.
+
+**[LinkedIn](https://www.linkedin.com/in/trofymenko-artem/)** · **[GitHub](https://github.com/artemtrofymenko)**
+
+---
+
+*Public source is open where it's safe to be; private repos stay private when they hold development history or operational workflows.*
