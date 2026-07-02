@@ -9,7 +9,7 @@ Trilingual: Ukrainian · Russian · English.
 ## Live tools
 
 **[SkuSum](https://skusum.com)**: local-first Amazon profit-by-SKU and QuickBooks/Xero journal.
-Joins your Orders, Settlement, Ads and cost reports in the browser into one reconciled profit-by-SKU file and a balanced accounting journal. No backend, no uploads, no Amazon login; your data never leaves your machine. · [try it](https://skusum.com/app)
+Joins your Orders, Settlement, Ads and cost reports in the browser into one reconciled profit-by-SKU file and a balanced accounting journal. No backend, no uploads, no Amazon login; your data never leaves your machine. · [try it](https://skusum.com/app/)
 
 **[ReadyCSV](https://readycsv.netlify.app)**: privacy-first CSV preflight and repair for HubSpot imports.
 Inspect, clean, map headers, and export CSVs before CRM import. Runs entirely in the browser: no backend, no uploads, no accounts, no data custody. · [overview](https://readycsv.netlify.app/landing)
