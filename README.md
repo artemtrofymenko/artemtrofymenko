@@ -28,6 +28,11 @@ Task intake, routing, and operator-facing automation UX with safe demo defaults.
 **[How I Run a Supervised Multi-Agent AI Operation as a Non-Engineer](https://github.com/artemtrofymenko/agent-ops-notes)**: architecture, how agents fail, and the operating discipline that keeps them reliable.
 Shared memory with a verified/not-verified handoff contract, a curated knowledge wiki, supervision gates, weekly measurement against an independent judge, rule enforcement that survives a long instruction file, and four third-party frameworks assessed without adopting any of them. Written from daily practice, not theory.
 
+## Open source
+
+**[career-ops](https://github.com/career-ops-hq/career-ops)**: 15 merged PRs in a public repo I don't own.
+Test-harness gaps where a suite ran nowhere and nothing said so, Windows-only failures no CI runner can reproduce, and reviews of other people's work. Every change carries a measurement taken before and after, and a mutation proving the new test fails when the thing it guards is broken. | [The record, with the maintainer's own words](https://artemtrofymenko.github.io/open-source-record/)
+
 ## Private work
 
 **Self-hosted AI Agent Lab**: human-in-the-loop agents with approval-gated actions and recoverable, inspectable automation. The architecture and the operating discipline behind it are written up publicly in [agent-ops-notes](https://github.com/artemtrofymenko/agent-ops-notes).
