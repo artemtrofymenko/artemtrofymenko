@@ -19,7 +19,7 @@ Inspect, repair, map and export CSV files before they reach the CRM. File proces
 Joins Amazon orders, settlement, advertising and cost reports into profit by SKU and a QuickBooks or Xero journal, in the browser. Every run checks that debits equal credits and grades data quality separately, so "the books tie out" never hides "the margins are not trustworthy yet". High-severity exceptions block the export. There is no model in the data path: an unknown fee type is flagged for review, not guessed.
 
 **[career-ops](https://github.com/career-ops-hq/career-ops)** · open-source contributions<br>
-[45 merged pull requests](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aartemtrofymenko+is%3Amerged), 20 reviews of other people's work and 13 issues since August 2026, in a 77,000-star project I contribute to and did not create. The work includes test gaps, Windows-only failures no CI runner could see, and job-posting liveness. From the project author's [merge note](https://github.com/career-ops-hq/career-ops/pull/3267):
+[45+ merged pull requests](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aartemtrofymenko+is%3Amerged), 20 reviews of other people's work and 13 issues since August 2026, in a 77,000-star project I contribute to and did not create. The work includes test gaps, Windows-only failures no CI runner could see, and job-posting liveness. From the project author's [merge note](https://github.com/career-ops-hq/career-ops/pull/3267):
 
 > Measured-not-reasoned on the actual machine it reproduces on is the gold standard.
 
