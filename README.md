@@ -35,11 +35,11 @@ Five cases in one shape: the problem, what I built or did, the number, and where
 **[career-ops](https://github.com/career-ops-hq/career-ops)** · open-source contributions<br>
 **Problem.** An open-source AI job-search agent with over 79,000 stars had tests that were green on every CI platform and still failed, or never ran, on a default Windows install, and checks that could pass by looking in the wrong place.<br>
 **Did.** Fixes, regression tests and reviews in a project I contribute to and did not create. Every change carries a number from before and after, and a new test shown failing against the old code.<br>
-**Result.** [53 merged pull requests](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aartemtrofymenko+is%3Amerged), 21 pull requests of other people reviewed and 15 issues filed, 12 of them closed, from 18 August to 3 November 2026. One of the latest: on a venture fund's job board the scanner read 18 listings and now reads 424 ([#6406](https://github.com/career-ops-hq/career-ops/pull/6406)). From the project author's [merge note](https://github.com/career-ops-hq/career-ops/pull/3267):
+**Result.** [59 merged pull requests](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Aartemtrofymenko+is%3Amerged), 22 pull requests of other people reviewed and 16 issues filed, 14 of them closed, from 18 August to 6 November 2026. One of the latest: on a venture fund's job board the scanner read 18 listings and now reads 424 ([#6406](https://github.com/career-ops-hq/career-ops/pull/6406)). From the project author's [merge note](https://github.com/career-ops-hq/career-ops/pull/3267):
 
 > Measured-not-reasoned on the actual machine it reproduces on is the gold standard.
 
-**Check it.** [The full record](https://artemtrofymenko.github.io/open-source-record/), with each merged change up to 27 October, the maintainers' notes and what I could not verify.
+**Check it.** [The full record](https://artemtrofymenko.github.io/open-source-record/), with each merged change up to 6 November, the maintainers' notes and what I could not verify.
 
 **[LeakRelay](https://www.leakrelay.com/)** · missed-call response for restoration companies<br>
 **Problem.** The idea: US water-damage restoration companies lose emergency jobs when nobody picks up after hours. Before building further, I needed to know whether that was true.<br>
